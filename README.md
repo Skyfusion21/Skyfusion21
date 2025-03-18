@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Skyfusion21
 - 👀 I’m interested in ...Machine learning and AI
-- 🌱 I’m currently learning ...Phython
+- 🌱 I’m currently learning ...web dev
 - 💞️ I’m looking to collaborate on ...c
 - 📫 How to reach me ...akashmelavanki217@gmail.com
 - 😄 Pronouns: ...
